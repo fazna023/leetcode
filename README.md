@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fazna023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
+| [0151-reverse-words-in-a-string](https://github.com/fazna023/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/fazna023/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/fazna023/leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/fazna023/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
