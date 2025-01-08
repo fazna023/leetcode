@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fazna023/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/fazna023/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/fazna023/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/fazna023/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/fazna023/leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/fazna023/leetcode/tree/master/0137-single-number-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/fazna023/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fazna023/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/fazna023/leetcode/tree/master/0100-same-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
