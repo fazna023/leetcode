@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fazna023/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/fazna023/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/fazna023/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Sorting
 |  |
 | ------- |
