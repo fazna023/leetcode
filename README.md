@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/fazna023/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/fazna023/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/fazna023/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/fazna023/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/fazna023/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fazna023/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fazna023/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
