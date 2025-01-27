@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/fazna023/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/fazna023/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/fazna023/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/fazna023/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/fazna023/leetcode/tree/master/0258-add-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fazna023/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Sorting
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/fazna023/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/fazna023/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
