@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/fazna023/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/fazna023/leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/fazna023/leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/fazna023/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/fazna023/leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/fazna023/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/fazna023/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/fazna023/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/fazna023/leetcode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/fazna023/leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/fazna023/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
