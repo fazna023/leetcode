@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/fazna023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/fazna023/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/fazna023/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
 | [2235-capitalize-the-title](https://github.com/fazna023/leetcode/tree/master/2235-capitalize-the-title) |
 ## Sliding Window
