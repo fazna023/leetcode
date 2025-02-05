@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fazna023/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fazna023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/fazna023/leetcode/tree/master/0041-first-missing-positive) |
+| [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fazna023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/fazna023/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/fazna023/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
 | [2235-capitalize-the-title](https://github.com/fazna023/leetcode/tree/master/2235-capitalize-the-title) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/fazna023/leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/fazna023/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/fazna023/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/fazna023/leetcode/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/fazna023/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
