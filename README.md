@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/fazna023/leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/fazna023/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/fazna023/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/fazna023/leetcode/tree/master/0191-number-of-1-bits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/fazna023/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/fazna023/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/fazna023/leetcode/tree/master/0258-add-digits) |
