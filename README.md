@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/fazna023/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/fazna023/leetcode/tree/master/0551-student-attendance-record-i) |
+| [0647-palindromic-substrings](https://github.com/fazna023/leetcode/tree/master/0647-palindromic-substrings) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
 | [2235-capitalize-the-title](https://github.com/fazna023/leetcode/tree/master/2235-capitalize-the-title) |
 ## Sliding Window
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/fazna023/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/fazna023/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/fazna023/leetcode/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/fazna023/leetcode/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/fazna023/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/fazna023/leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/fazna023/leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
