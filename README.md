@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/fazna023/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/fazna023/leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/fazna023/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1848-sum-of-unique-elements](https://github.com/fazna023/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/fazna023/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/fazna023/leetcode/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
+| [1848-sum-of-unique-elements](https://github.com/fazna023/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/fazna023/leetcode/tree/master/0647-palindromic-substrings) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/fazna023/leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
