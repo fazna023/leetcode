@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/fazna023/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/fazna023/leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/fazna023/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/fazna023/leetcode/tree/master/0647-palindromic-substrings) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/fazna023/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/fazna023/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/fazna023/leetcode/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fazna023/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fazna023/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/fazna023/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/fazna023/leetcode/tree/master/0415-add-strings) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fazna023/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Sorting
 |  |
