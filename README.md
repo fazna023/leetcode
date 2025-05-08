@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/fazna023/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/fazna023/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
+| [2502-sort-the-people](https://github.com/fazna023/leetcode/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/fazna023/leetcode/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
 | [1848-sum-of-unique-elements](https://github.com/fazna023/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2502-sort-the-people](https://github.com/fazna023/leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/fazna023/leetcode/tree/master/0953-reverse-only-letters) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
 | [2235-capitalize-the-title](https://github.com/fazna023/leetcode/tree/master/2235-capitalize-the-title) |
+| [2502-sort-the-people](https://github.com/fazna023/leetcode/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/fazna023/leetcode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/fazna023/leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/fazna023/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2502-sort-the-people](https://github.com/fazna023/leetcode/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
