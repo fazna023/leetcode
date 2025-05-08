@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/fazna023/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/fazna023/leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/fazna023/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1791-richest-customer-wealth](https://github.com/fazna023/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/fazna023/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/fazna023/leetcode/tree/master/1944-truncate-sentence) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fazna023/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
+| [1791-richest-customer-wealth](https://github.com/fazna023/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Recursion
 |  |
 | ------- |
