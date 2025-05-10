@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/fazna023/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/fazna023/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/fazna023/leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/fazna023/leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/fazna023/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/fazna023/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fazna023/leetcode/tree/master/0342-power-of-four) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/fazna023/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/fazna023/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/fazna023/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
